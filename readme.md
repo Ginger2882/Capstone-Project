@@ -3,7 +3,7 @@
 This is the code portion of my capstone project analyzing if Dean Oliver's Four Factors are still a reliable measure of Basketball Success.
 
 # Overview
-This R script performs all the math and data analysis found in the paper. It includes the code for all model construction and comparison as well as the code behind all figures seen in the paper.
+These R scripts perform all the math and data analysis found in the paper. It includes the code for all model construction and comparison as well as the code used to create all figures seen in the paper.
 
 # Installation:
 To run this script, ensure you have the following packages installed:
@@ -31,7 +31,7 @@ Graphs ->
 Multicollinearity Test.R ->
 Calculating Weights.R
 
-This is the order that they appear in the paper and thus should be the best way to follow along
+This is the order that they appear in the paper and thus is the best way to follow along.
 ```
 ## Contributing
 
