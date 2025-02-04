@@ -10,7 +10,8 @@ To run this script, ensure you have the following packages installed:
 
 ```R
 #Installation:
-For this project you will need to have the following packages installed using the install.packages() function.
+For this project you will need to have the following packages installed
+using the install.packages() function.
 
 tidyverse
 dplyr
